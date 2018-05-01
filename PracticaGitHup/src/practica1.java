@@ -5,7 +5,9 @@ public class practica1 {
 		// TODO Auto-generated method stub
 		System.out.println("Practica 1 ");
 		//comentario de Sonia
-		//comentario 2
+
+		//comentario Rafa
+
 	}
 
 }
